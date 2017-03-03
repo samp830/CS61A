@@ -1,0 +1,9 @@
+make_user(
+    'Samyak Parajuli',      # name
+    [                   # reviews
+        make_review('Cafe 3', 1.0),
+        make_review('Thai Basil Cuisine', 5.0),
+        make_review('Bongo Burger', 5.0),
+     
+    ]
+)
